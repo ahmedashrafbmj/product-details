@@ -1,0 +1,18 @@
+.Extraslistinclude{
+    list-style-type: none;
+    font-size: 15px;
+    padding-bottom: 8px;
+    color: #565553;
+}
+.Extraslistexclude{
+    list-style-type: none;
+    font-size: 15px;
+    padding-bottom: 8px;
+    color:#565553;
+}
+.cross{
+    color:#622072;
+}
+.tick{
+    color:#b62863;
+}

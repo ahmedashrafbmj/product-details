@@ -1,0 +1,27 @@
+.LOCcontainer{
+    line-height: 1.2;
+}
+.loc{
+    margin-left: 1px;
+}
+.pickup{
+    color:  #9d464e;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+.loc{
+    color: #3c204b;
+    font-size: 15px;
+}
+@media (max-width:460px){
+    .pickup{
+        min-width: 65px; 
+        font-size: 10px;
+
+    }  
+    .loc{
+        color: #3c204b;
+        font-size: 9px;
+    } 
+}
